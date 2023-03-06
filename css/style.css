@@ -135,7 +135,7 @@ body {
   background-color: #1ea8ac;
   border-radius: 0.2rem;
   box-shadow: #010101;
-  padding: 1rem 1rem;
+  padding: 1rem 1.1rem;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
   font-style: italic;
 }
